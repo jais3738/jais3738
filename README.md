@@ -130,24 +130,6 @@ Beyond writing code, I enjoy mentoring developers, designing scalable software a
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jais3738&show_icons=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jais3738&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jais3738"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - Publish AI Research Papers
