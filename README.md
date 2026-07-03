@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-profile-banner.png" alt="Jai Kumar Singh Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Jai Kumar Singh</h1>
 
 <h3 align="center">
